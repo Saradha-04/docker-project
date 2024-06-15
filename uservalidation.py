@@ -2,6 +2,6 @@ user_input = int(input("Enter a number:"))
 if user_input < 0: 
     print("it's negative")
 elif user_input%2 == 0:
-    print("It's event")
+    print("It's even")
 else:
     print("It's odd")
